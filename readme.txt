@@ -6,3 +6,5 @@ git½Ì³Ì
  -fix-B
 
 feature-c
+
+clone  _changed  _push
